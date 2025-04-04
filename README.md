@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/d636a186-fcb4-4cf6-a403-fd83e8a53a27
 
 ## Overview
 
-This Excel workbook can solve most Sudoku puzzles using only Excel formulas. It applies logical constraints to progressively eliminate impossible values until only one possibility remains for each cell.
+This Excel workbook can solve easy Sudoku puzzles using only Excel formulas. It applies logical constraints to progressively eliminate impossible values until only one possibility remains for each cell.
 
 ## Features
 
