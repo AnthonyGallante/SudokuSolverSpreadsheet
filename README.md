@@ -11,6 +11,11 @@ This Excel workbook can solve easy Sudoku puzzles using only Excel formulas. It 
 ## Features
 - Pure formula-based sudoku solution (no VBA/macros required!)
 
+## Requirements
+
+- Microsoft Excel (2016 or newer recommended)
+- Iterative calculations enabled (File > Options > Formulas > Enable iterative calculation)
+
 ## Limitations
 
 Unfortunately, this solver only really works with easy to medium difficulty puzzles. This is partly due to the limit that you manually impose on the iterative calculation setting. Obviously, we don't want to set this to a number too large, or else we will be stuck in a brute-force loop that might not terminate. Excel does not crash with as much grace as some other programs.
@@ -38,7 +43,3 @@ If X-Wing and Swordfish logic were to be imposed, it would be here.
 3. The status indicator in cell C12 will inform the user if the puzzle is solved
 4. To enter a new puzzle, simply clear cells B2:J10 and enter new values
 
-## Requirements
-
-- Microsoft Excel (2016 or newer recommended)
-- Iterative calculations enabled (File > Options > Formulas > Enable iterative calculation)
