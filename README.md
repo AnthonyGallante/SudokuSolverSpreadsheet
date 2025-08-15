@@ -20,7 +20,7 @@ This Excel workbook can solve easy Sudoku puzzles using only Excel formulas. It 
 
 Unfortunately, this solver only really works with easy to medium difficulty puzzles. This is partly due to the limit that you manually impose on the iterative calculation setting. Obviously, we don't want to set this to a number too large, or else we will be stuck in a brute-force loop that might not terminate. Excel does not crash with as much grace as some other programs.
 
-Difficult puzzles requiring advanced techniques like "X-Wing" or "Swordfish" probably will not be solved with this formula-based approach, though I imagine difficult solves are possible.
+Difficult puzzles requiring advanced techniques like "X-Wing" or "Swordfish" probably will not be solved with this formula-based approach, though I imagine difficult solves are possible. You can try to increase the number of acceptable iterative calculations and you may have better success.
 
 ## How It Works
 
