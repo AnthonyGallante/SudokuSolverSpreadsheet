@@ -1,6 +1,6 @@
 # Excel Sudoku Solver
 
-A formula-based Sudoku puzzle solver built entirely in Microsoft Excel without any VBA or macros. Once I learned about Excel's iterative calculation setting, I had to build a little project to understand how it can be used.
+A formula-based Sudoku puzzle solver built entirely in Microsoft Excel without any VBA or macros. Once I learned about Excel's iterative calculation setting, I had to build a simple project to appreciate how it could be used—essentially taking the place of a "for loop".
 
 https://github.com/user-attachments/assets/d636a186-fcb4-4cf6-a403-fd83e8a53a27
 
